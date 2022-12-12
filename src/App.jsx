@@ -10,7 +10,7 @@ const App = () => {
 
   return (
     <>
-      <Navbar price={price} setPrice={setPrice} qty={qty} setQty={setQty}/>
+      <Navbar price={price} qty={qty} setQty={setQty}/>
       <Product price={price} qty={qty} setQty={setQty}/>
     </>
   )

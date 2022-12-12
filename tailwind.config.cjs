@@ -17,7 +17,8 @@ module.exports = {
         lightBlack : "rgba(0, 0, 0, 0.75);"
       },
       screens: {
-        sm: "376px"
+        sm: "376px",
+        md: "768px"
       }
     },
   },
