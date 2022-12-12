@@ -9,7 +9,7 @@ const Product = ({ price, qty, setQty }) => {
   const products = [...data];
   const [value, setValue] = useState(0);
 
-  const [modal, setModal] = useState(false);
+  const [modal, setModal] = useState(true);
 
   const largeImage = products[value].largeImg;
 
