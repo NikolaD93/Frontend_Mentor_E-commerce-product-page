@@ -12,4 +12,6 @@ Users should be able to:
 
 # [Live Website Preview](https://frontmentor5nikola93.netlify.app/).
 
+# [YT Video Preview](https://www.youtube.com/watch?v=VqAFrHdOA0w&ab_channel=Dojcinovic).
+
 ![Screen Capture 002 - Ecommerce product - localhost](https://user-images.githubusercontent.com/95870159/207066754-ea8d80f9-f7ba-4c57-a281-49c35901681a.jpg)
