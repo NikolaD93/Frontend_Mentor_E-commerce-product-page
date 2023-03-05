@@ -1,5 +1,6 @@
 This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
-A single product page made with React.js and Tailwind css. Used Vite.js as module bundler. Responsive for mobile devices.
+
+A single product page made with *React.js* and *Tailwind css*. Used *Vite.js* as module bundler.
 
 Users should be able to:
 
